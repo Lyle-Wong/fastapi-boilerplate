@@ -1,4 +1,4 @@
-# Fastapi service
+# Fastapi app
 
 ## Usage
 
